@@ -1,7 +1,7 @@
 export default {
 	title: "Reading Machines",
 	description: "a literary history of new media from the hand-press period to the present",
-	url: "https://tufte.000000076.xyz/", // http://localhost:8080
+	url: "https://f26rm.ryancordell.org", // http://localhost:8080
 	language: "en",
 	locale: "en_US",
 	image: "/img/orange.svg",
