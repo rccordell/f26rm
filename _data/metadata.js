@@ -1,6 +1,6 @@
 export default {
-	title: "11ty Gets Tufte",
-	description: "A Tufte CSS Project built with 11ty aka Eleventy for your projects",
+	title: "Reading Machines",
+	description: "a literary history of new media from the hand-press period to the present",
 	url: "https://tufte.000000076.xyz/", // http://localhost:8080
 	language: "en",
 	locale: "en_US",
@@ -12,12 +12,16 @@ export default {
                     url: "/"
                 },
                 {
-                    nav: "About",
-                    url: "/about/"
+                    nav: "Syllabus",
+                    url: "/syllabus/"
                 },
                 {
-                    nav: "Documentation",
-                    url: "/doc/"
+                    nav: "Assignments",
+                    url: "/assignments/"
+                },
+                                {
+                    nav: "Schedule",
+                    url: "/schedule/"
                 },
                 {
                     nav: "Blog",
@@ -36,13 +40,13 @@ export default {
 	},
 	footer: {
 		text1: "Built with",
-		text2: "Develop by",
+		text2: "Using the tufte.css Theme Developed by",
 		text3: "Adam DJ Brett",
 		text3_url: "https://www.adamdjbrett.com/"
 	},
 	author: {
-		name: "Adam DJ Brett",
-		email: "info@adamdjbrett.com",
-		url: "https://adamdjbrett.com/"
+		name: "Ryan Cordell",
+		email: "rcordell@illinois.edu",
+		url: "https://ryancordell.org"
 	}
 }
